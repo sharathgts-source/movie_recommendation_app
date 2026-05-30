@@ -59,6 +59,7 @@ lib/
 │ └── details_screen.dart
 
 ---
+<img width="1287" height="928" alt="Screenshot 2026-05-12 194256" src="https://github.com/user-attachments/assets/55a6bf6f-3201-451f-bfb8-05c33a1f2d8f" />
 
 # 🚀 Getting Started
 
@@ -73,3 +74,6 @@ Check Flutter installation:
 ```bash
 flutter doctor
 >>>>>>> cbf9753a15c902c64ddceae4f3a64db98a4d896c
+
+
+
