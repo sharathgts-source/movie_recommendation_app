@@ -35,7 +35,7 @@ class DetailsScreen extends StatelessWidget {
                     movie.title,
 
                     style: const TextStyle(
-                      fontSize: 24,
+                      fontSize: 30,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
